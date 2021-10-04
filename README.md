@@ -13,7 +13,7 @@
 ### 🌌 Links:
 
 [![TGCStore Badge](https://img.shields.io/badge/-TGCStore-blue?style=for-the-badge)](https://tgcstore.net/seller/247179)
-[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&color=yellow)](https://stv233.pro/mailtome)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&color=yellow)](https://go.stv233.pro/mailtome)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-darkred?style=for-the-badge)](https://www.youtube.com/channel/UCS7o5amrhpqtyVLCjO_c1MQ)
 [![Website Badge](https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge)](https://stv233.pro)
 
