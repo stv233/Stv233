@@ -5,7 +5,7 @@
 
 ### 🌌 About me:
 
-- ⭐ 3rd year student of 3rd year student of **SibSUTIS**
+- ⭐ 3rd year student of **SibSUTIS**
 - 🌟 At university I studied **C**, **C++**, **C#** and a little **Python**
 - ✨ In my free time I prefer to write in C# and sometimes in Lua
 - 🪐 Potentially interested to join **any project** that I find meaningful
