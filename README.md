@@ -5,7 +5,7 @@
 
 ### 🌌 About me:
 
-- ⭐ 3rd year student of **SibSUTIS**
+- ⭐ 4rd year student of **SibSUTIS**
 - 🌟 At university I studied **C**, **C++**, **C#** and a little **Python**
 - ✨ In my free time I prefer to write in C# and sometimes in Lua
 - 🪐 Potentially interested to join **any project** that I find meaningful
@@ -30,5 +30,5 @@
 
 [![Lua Script](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=LuaScriptConstructor&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/LuaScriptConstructor)
 [![Text Editor](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=TextEditor&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/TextEditor)
-[![Text Editor](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=QuizRunner&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/QuizRunner)
+[![Unity starter package ](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=StarterPack&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/QuizRunner)
 [![Galcon](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=GALCON&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/GALCON)
