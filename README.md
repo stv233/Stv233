@@ -30,5 +30,5 @@
 
 [![Lua Script](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=LuaScriptConstructor&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/LuaScriptConstructor)
 [![Text Editor](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=TextEditor&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/TextEditor)
-[![Unity starter package ](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=StarterPack&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/QuizRunner)
+[![Unity starter package ](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=StarterPack&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/StarterPack)
 [![Galcon](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=GALCON&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/GALCON)
