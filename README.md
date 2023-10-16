@@ -5,17 +5,17 @@
 
 ### 🌌 About me:
 
-- ⭐ 4rd year student of **SibSUTIS**
-- 🌟 At university I studied **C**, **C++**, **C#** and a little **Python**
-- ✨ In my free time I prefer to write in C# and sometimes in Lua
+- ⭐ Create interactive worlds in the [**Brainy Universe**](https://brainy-space.com/)
+- 🌟 Studied at the **Siberian State University of Telecommunications and Information sciences**
+- ✨ Use **C#** as the main language for implementing projects
 - 🪐 Potentially interested to join **any project** that I find meaningful
 
 ### 🌌 Links:
 
 [![TGCStore Badge](https://img.shields.io/badge/-TGCStore-blue?style=for-the-badge)](https://tgcstore.net/seller/247179)
-[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&color=yellow)](https://go.stv233.pro/mailtome)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&color=yellow)](mailto:me@stvdev.pro?subject=)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-darkred?style=for-the-badge)](https://www.youtube.com/channel/UCS7o5amrhpqtyVLCjO_c1MQ)
-[![Website Badge](https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge)](https://stv233.pro)
+[![Website Badge](https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge)](https://stvdev.pro)
 
 
 <br>
@@ -29,6 +29,4 @@
 ## 🌌 Pins:
 
 [![Lua Script](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=LuaScriptConstructor&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/LuaScriptConstructor)
-[![Text Editor](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=TextEditor&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/TextEditor)
 [![Unity starter package ](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=StarterPack&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/StarterPack)
-[![Galcon](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=GALCON&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/GALCON)
