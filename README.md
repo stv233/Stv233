@@ -5,14 +5,14 @@
 
 ### 🌌 About me:
 
-- ⭐ Create interactive worlds in the [**Brainy Universe**](https://brainy-space.com/)
+- ⭐ Create interactive worlds in the [**Brainy Universe**](https://vrrss.com//)
 - 🌟 Studied at the **Siberian State University of Telecommunications and Information sciences**
 - ✨ Use **C#** as the main language for implementing projects
 - 🪐 Potentially interested to join **any project** that I find meaningful
 
 ### 🌌 Links:
 
-[![TGCStore Badge](https://img.shields.io/badge/-TGCStore-blue?style=for-the-badge)](https://tgcstore.net/seller/247179)
+[![TGCStore Badge](https://img.shields.io/badge/-Game%20Creator%20Store-blue?style=for-the-badge)]([https://tgcstore.net/seller/247179](https://gamecreator.store/seller/247179))
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&color=yellow)](mailto:me@stvdev.pro?subject=)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-darkred?style=for-the-badge)](https://www.youtube.com/channel/UCS7o5amrhpqtyVLCjO_c1MQ)
 [![Website Badge](https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge)](https://stvdev.pro)
@@ -20,11 +20,9 @@
 
 <br>
    
-[![Stv's GitHub stats](https://github-readme-stats.vercel.app/api?username=stv233&show_icons=true&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Stv's GitHub stats](https://github-readme-stats.vercel.app/api?username=stv233&include_all_commits=true&rank_icon=github&show_icons=true&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stv233&show_icons=true&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Stv's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@stv233&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://wakatime.com/@stv233)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stv233&show_icons=true&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&layout=compact)](https://github.com/stv233)
 
 ## 🌌 Pins:
 
