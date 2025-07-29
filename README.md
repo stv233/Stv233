@@ -12,7 +12,7 @@
 
 ### 🌌 Links:
 
-[![TGCStore Badge](https://img.shields.io/badge/-Game%20Creator%20Store-blue?style=for-the-badge)]([https://tgcstore.net/seller/247179](https://gamecreator.store/seller/247179))
+[![TGCStore Badge](https://img.shields.io/badge/-Game%20Creator%20Store-blue?style=for-the-badge)](https://gamecreator.store/seller/247179)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&color=yellow)](mailto:me@stvdev.pro?subject=)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-darkred?style=for-the-badge)](https://www.youtube.com/channel/UCS7o5amrhpqtyVLCjO_c1MQ)
 [![Website Badge](https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge)](https://stvdev.pro)
