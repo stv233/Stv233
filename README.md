@@ -20,11 +20,11 @@
 
 <br>
    
-[![Stv's GitHub stats](https://github-readme-stats.vercel.app/api?username=stv233&include_all_commits=true&rank_icon=github&show_icons=true&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233)
+[![Stv's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=stv233&include_all_commits=true&rank_icon=github&show_icons=true&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stv233&show_icons=true&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&layout=compact)](https://github.com/stv233)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stv233&show_icons=true&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&layout=compact)](https://github.com/stv233)
 
 ## 🌌 Pins:
 
-[![Lua Script](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=LuaScriptConstructor&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/LuaScriptConstructor)
-[![Unity starter package ](https://github-readme-stats.vercel.app/api/pin/?username=stv233&repo=StarterPack&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/StarterPack)
+[![Lua Script](https://github-readme-stats-fast.vercel.app/api/pin/?username=stv233&repo=LuaScriptConstructor&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/LuaScriptConstructor)
+[![Unit Game Development Kit](https://github-readme-stats-fast.vercel.app/api/pin/?username=stv233&repo=StarterPack&theme=gotham&title_color=9400D3&text_color=800080&icon_color=8A2BE2&border_color=8A2BE2&cache_seconds=1800)](https://github.com/stv233/StvDEV.GameDevelopmentKit)
